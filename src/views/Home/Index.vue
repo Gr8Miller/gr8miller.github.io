@@ -7,9 +7,9 @@
       <v-divider vertical class="mx-4" />
       <router-link to="/features">Features</router-link>
     </v-row>
-    <v-content>
+    <v-main>
       <router-view />
-    </v-content>
+    </v-main>
   </v-container>
 </template>
 
